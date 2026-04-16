@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+seaborn
+pyspark
+sqlalchemy
+apache-airflow
+fastapi
+uvicorn
+dvc
+mlflow
+boto3
+great-expectations
