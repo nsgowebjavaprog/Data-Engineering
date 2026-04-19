@@ -8,11 +8,13 @@ when retrive the data then using excel access the data from 1millions of data ro
 
 Then we use the SQL to store, access, update and retrive the Data.
 
+
+------------------------------------------------------
 ## Why / What is SQL?
 ------------------------------------------------------
 
-
-##
+------------------------------------------------------
+##cdfv
 ------------------------------------------------------
 
 
